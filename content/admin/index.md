@@ -1,6 +1,6 @@
 ---
 # Generate Wowchemy CMS
-type: wowchemycms
+type: kalyani
 private: true
 outputs:
   - wowchemycms_config
