@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Kalyani Pakhale # Website name
-baseURL: 'https://kalyanipakhale.github.io' # Website URL
+title: kalyani pakhale # Website name
+baseURL: 'https://KalyaniVijayPakhale/kalyanipakhale.github.io' # Website URL
 
 ############################
 ## LANGUAGE
